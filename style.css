@@ -1,0 +1,29 @@
+h1{
+    color:black
+}
+a{
+    color:black;
+    font-size: 40px;
+}
+.header{
+    background-color:rgb(255, 153, 153);
+    display:flex;
+    justify-content: space-between;
+    color:black;
+}
+.menu{
+    display:flex;
+    justify-content:space-around;
+    background-color: rgb(134, 134, 255);
+}
+.items{
+    display:flex;
+    justify-content: space-around;
+    background-color: rgb(255, 255, 155);
+}
+.footer{
+    display:flex;
+    justify-content: space-around;
+    background-color: rgb(155, 255, 155);
+}
+
